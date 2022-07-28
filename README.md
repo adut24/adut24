@@ -1,4 +1,6 @@
-# Hey everyone 👋
+# Hey everyone 👋 Welcome to my Github! 🎊
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adut24&layout=compact&langs_count=8&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adut24&show_icons=true&theme=codeSTACKr)
 
 ## About me
 **Hello**! My name is Alexandre Dutertre. I'm a 23 years old student in [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I'd be finishing my foundations year in 3 months and so I am currently looking for an internship in Web Development (Front End or Back End).
@@ -24,7 +26,7 @@ We also learned to code in group coding during various projects with the most im
 - [Twitter](https://twitter.com/dute_a)
 - [Medium](https://medium.com/@alex24dutertre)
 
-## My latest articles written on Medium
+## My latest Medium stories
 <!-- MEDIUM-STORY-LIST:START -->
 <!-- MEDIUM-STORY-LIST:END -->
 
