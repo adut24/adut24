@@ -49,7 +49,6 @@ style="margin-right: 15px;" />
 - [The differences between a static library and a dynamic library](https://medium.com/@alex24dutertre/the-differences-between-a-static-library-and-a-dynamic-library-714840bea128)
 - [Understand Jim Hague’s code, 1986 IOCCC winner](https://medium.com/@alex24dutertre/understand-jim-hagues-code-1986-ioccc-winner-7715093b0b3b)
 <!-- MEDIUM-STORY-LIST:END -->
-<br>
 
 ## **Languages and tools used**
 <div>
