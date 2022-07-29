@@ -4,7 +4,6 @@
 	<img width="252" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adut24&layout=compact&langs_count=8&theme=codeSTACKr&border_color=ffffff" alt="most used language" />
 	<img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=adut24&show_icons=true&&theme=codeSTACKr&include_all_commits=true&border_color=ffffff" alt="github stats" />
 </div>
-<br>
 
 ## **About me**
 Hello! My name is Alexandre Dutertre. I'm a 23 years old student in [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I'd be finishing my foundations year in 3 months and so I am currently looking for an internship in Web Development (Front End or Back End).
