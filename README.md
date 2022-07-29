@@ -1,18 +1,18 @@
 # <div align="center">Hey everyone 👋 Welcome to my Github! 🎊</div>
 
 <div align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adut24&layout=compact&langs_count=8&theme=codeSTACKr" alt="most used language" />
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=adut24&show_icons=true&theme=codeSTACKr" alt="github stats" />
+	<img width="252" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adut24&layout=compact&langs_count=8&theme=codeSTACKr&border_color=ffffff" alt="most used language" />
+	<img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=adut24&show_icons=true&&theme=codeSTACKr&include_all_commits=true&border_color=ffffff" alt="github stats" />
 </div>
-<br><br>
+<br>
 
 ## **About me**
 Hello! My name is Alexandre Dutertre. I'm a 23 years old student in [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I'd be finishing my foundations year in 3 months and so I am currently looking for an internship in Web Development (Front End or Back End).
 
-During the first year at Holberton, I studied among others:
-- Bash
+During the first year at Holberton, I studied among other things:
 - C
 - Python3
+- HTML5/CSS3
 
 You can find the complete list at the end of this README. I can work on Web Development as well as learning new languages to work on all kind of interesting projects! We also learned to code in group coding during various projects with the most important being:
 - [printf](https://github.com/adut24/printf)
@@ -28,15 +28,15 @@ You can find the complete list at the end of this README. I can work on Web Deve
 ## **To contact me**
 <div>
 <a href="https://www.linkedin.com/in/alexandredut" target="_blank">
-<img width="100" height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png"
+<img width="150" height="40" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png"
 style="margin-right: 15px;" />
 </a>
 <a href="https://twitter.com/dute_a" target="_blank">
-<img width="100" height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitter_button_icon_151835.png"
+<img width="150" height="40" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitter_button_icon_151835.png"
 style="margin-right: 15px;" />
 </a>
 <a href="mailto:dutertre.alexandre@laposte.net" target="_blank">
-<img width="100" height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/email_me_button_icon_151852.png"
+<img width="150" height="40" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/email_me_button_icon_151852.png"
 style="margin-right: 15px;" />
 </a>
 </div>
@@ -54,15 +54,14 @@ style="margin-right: 15px;" />
 
 ## **Languages and tools used**
 <div>
-<img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" style="margin-right: 15px;" />
-<img height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" alt="Bash" style="background-color: white; margin-right: 15px;" />
-<img height="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C"
-style="margin-right: 15px;" />
-<img height="50" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="Python3" style="margin-right: 15px;" />
-<img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML5" style="margin-right: 15px;" />
-<img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" style="margin-right: 15px;" />
-<img height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" alt="SQL" style="margin-right: 15px;" />
-<img height="50" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Python3">
+	<img height="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" />
+	<img height="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" alt="Bash" />
+	<img height="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" margin-right="15px" />
+	<img height="60" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="Python3" />
+	<img height="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML5" />
+	<img height="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" />
+	<img height="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" alt="SQL" />
+	<img height="60" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Python3">
 </div>
 <br><br>
 
