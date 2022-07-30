@@ -53,7 +53,7 @@ style="margin-right: 15px;" />
 ## **Languages and tools used**
 <div>
 	<img height="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" />
-	<img height="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" alt="Bash" />
+	<img height="60" src="https://imgur.com/c6mUznG.png" alt="Bash" />
 	<img height="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" margin-right="15px" />
 	<img height="60" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="Python3" />
 	<img height="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML5" />
