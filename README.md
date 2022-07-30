@@ -43,11 +43,6 @@ style="margin-right: 15px;" />
 
 ## **My latest Medium articles**
 <!-- MEDIUM-STORY-LIST:START -->
-- [Recursion. Recursio. Recursi. Recurs… What is recursion?](https://medium.com/@alex24dutertre/recursion-recursio-recursi-recurs-what-is-recursion-f8ee3afb31e3)
-- [Everything is Object! Mutable and Immutable](https://medium.com/@alex24dutertre/everything-is-object-mutable-and-immutable-405cae8aba75)
-- [Object and Class Attributes in Python Object-Oriented Programming](https://medium.com/@alex24dutertre/object-and-class-attributes-in-python-object-oriented-programming-9fb422d9a45b)
-- [The differences between a static library and a dynamic library](https://medium.com/@alex24dutertre/the-differences-between-a-static-library-and-a-dynamic-library-714840bea128)
-- [Understand Jim Hague’s code, 1986 IOCCC winner](https://medium.com/@alex24dutertre/understand-jim-hagues-code-1986-ioccc-winner-7715093b0b3b)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## **Languages and tools used**
