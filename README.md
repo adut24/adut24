@@ -13,7 +13,9 @@ During the first year at Holberton, I studied among other things:
 - Python3
 - HTML5/CSS3
 
-You can find the complete list at the end of this README. I can work on Web Development as well as learning new languages to work on all kind of interesting projects! We also learned to code in group during various projects with the most important being:
+You can find the complete list at the end of this README. I can work on Web Development as well as learning new languages to work on all kind of interesting projects!
+
+We also learned to code in group during various projects with the most important being:
 - [printf](https://github.com/adut24/printf)
 - a [simple shell](https://github.com/adut24/simple_shell)
 - a clone of the [console](https://github.com/adut24/holbertonschool-AirBnB_clone) of the AirBnB, completing the AirBnB clone projects serie:
