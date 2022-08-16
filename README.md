@@ -45,11 +45,11 @@ style="margin-right: 15px;" />
 
 ## **My latest Medium articles**
 <!-- MEDIUM-STORY-LIST:START -->
+- [What are those Things on the Internet? &lpar;IoT&rpar;](https://medium.com/@alex24dutertre/what-are-those-things-on-the-internet-iot-e7f13464dd41?source=rss-6ed84c5350e0------2)
 - [Recursion. Recursio. Recursi. Recurs… What is recursion?](https://medium.com/@alex24dutertre/recursion-recursio-recursi-recurs-what-is-recursion-f8ee3afb31e3?source=rss-6ed84c5350e0------2)
 - [Everything is Object! Mutable and Immutable](https://medium.com/@alex24dutertre/everything-is-object-mutable-and-immutable-405cae8aba75?source=rss-6ed84c5350e0------2)
 - [Object and Class Attributes in Python Object-Oriented Programming](https://medium.com/@alex24dutertre/object-and-class-attributes-in-python-object-oriented-programming-9fb422d9a45b?source=rss-6ed84c5350e0------2)
 - [The differences between a static library and a dynamic library](https://medium.com/@alex24dutertre/the-differences-between-a-static-library-and-a-dynamic-library-714840bea128?source=rss-6ed84c5350e0------2)
-- [Understand Jim Hague’s code, 1986 IOCCC winner](https://medium.com/@alex24dutertre/understand-jim-hagues-code-1986-ioccc-winner-7715093b0b3b?source=rss-6ed84c5350e0------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## **Languages and tools used**
