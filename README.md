@@ -17,10 +17,11 @@ You can find the complete list at the end of this README. I can work on Web Deve
 
 We also learned to code in group during various projects with the most important being:
 - [printf](https://github.com/adut24/printf)
-- a [simple shell](https://github.com/adut24/simple_shell)
-- [AirBnB - console](https://github.com/adut24/holbertonschool-AirBnB_clone), completing the AirBnB clone projects:
-	- [AirBnB - web static](https://github.com/adut24/holbertonschool-AirBnB_clone/tree/main/web_static) (solo project)
-	- [AirBnB - MySQL](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/) (group project)
+- [simple shell](https://github.com/adut24/simple_shell)
+- [AirBnB clone - console](https://github.com/adut24/holbertonschool-AirBnB_clone), completing the AirBnB clone projects:
+	- [AirBnB clone - web static](https://github.com/adut24/holbertonschool-AirBnB_clone/tree/main/web_static) (solo project)
+	- [AirBnB clone - Deploy static](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/) (group project)
+	- [AirBnB clone - MySQL](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/) (solo project)
 <br><br>
 
 ## **Portfolio project**
