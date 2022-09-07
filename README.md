@@ -16,7 +16,7 @@ During the first year at Holberton, I studied among other things:
 You can find the complete list at the end of this README. I can work on Web Development as well as learning new languages to work on all kind of interesting projects!
 
 We also learned to code in group during various projects with the most important being:
-- [printf](https://github.com/adut24/printf)
+- [printf](../printf/)
 - [simple shell](https://github.com/adut24/simple_shell)
 - [AirBnB clone - console](https://github.com/adut24/holbertonschool-AirBnB_clone), completing the AirBnB clone projects:
 	- [AirBnB clone - web static](https://github.com/adut24/holbertonschool-AirBnB_clone/tree/main/web_static) (solo project)
@@ -30,17 +30,14 @@ We also learned to code in group during various projects with the most important
 
 ## **To contact me**
 <div>
-<a href="https://www.linkedin.com/in/alexandredut" target="_blank">
-<img width="150" height="40" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png"
-style="margin-right: 15px;" />
+<a href="https://www.linkedin.com/in/alexandredut">
+<img width="150" height="40" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
-<a href="https://twitter.com/dute_a" target="_blank">
-<img width="150" height="40" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitter_button_icon_151835.png"
-style="margin-right: 15px;" />
+<a href="https://twitter.com/dute_a">
+<img width="150" height="40" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitter_button_icon_151835.png" />
 </a>
-<a href="mailto:dutertre.alexandre@laposte.net" target="_blank">
-<img width="150" height="40" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/email_me_button_icon_151852.png"
-style="margin-right: 15px;" />
+<a href="mailto:dutertre.alexandre@laposte.net">
+<img width="150" height="40" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/email_me_button_icon_151852.png" />
 </a>
 </div>
 <br>
@@ -56,14 +53,14 @@ style="margin-right: 15px;" />
 
 ## **Languages and tools used**
 <div>
-	<img height="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" />
+	<img height="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="Git" />
 	<img height="60" src="https://imgur.com/c6mUznG.png" alt="Bash" />
-	<img height="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" margin-right="15px" />
+	<img height="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" />
 	<img height="60" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="Python3" />
 	<img height="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML5" />
 	<img height="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" />
-	<img height="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" alt="SQL" />
-	<img height="60" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Python3">
+	<img height="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" alt="MySQL" />
+	<img height="60" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript">
 </div>
 <br><br>
 
