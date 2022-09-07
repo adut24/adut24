@@ -16,7 +16,7 @@ During the first year at Holberton, I studied among other things:
 You can find the complete list at the end of this README. I can work on Web Development as well as learning new languages to work on all kind of interesting projects!
 
 We also learned to code in group during various projects with the most important being:
-- [printf](../printf/)
+- [printf](https://github.com/adut24/printf)
 - [simple shell](https://github.com/adut24/simple_shell)
 - [AirBnB clone - console](https://github.com/adut24/holbertonschool-AirBnB_clone), completing the AirBnB clone projects:
 	- [AirBnB clone - web static](https://github.com/adut24/holbertonschool-AirBnB_clone/tree/main/web_static) (solo project)
