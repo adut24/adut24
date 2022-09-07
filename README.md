@@ -6,7 +6,7 @@
 </div>
 
 ## **About me**
-Hello! My name is Alexandre Dutertre. I'm a 23 years old student in [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I'd be finishing my foundations year in 3 months and so I am currently looking for an internship in Web Development (Front End or Back End).
+Hello! My name is Alexandre Dutertre. I'm a 23 years old student at [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I'd be finishing my foundations year in 3 months and so I am currently looking for an internship in Web Development (Front End or Back End).
 
 During the first year at Holberton, I studied among other things:
 - C
