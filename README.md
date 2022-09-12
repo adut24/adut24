@@ -1,7 +1,6 @@
 # <div align="center">Hey everyone 👋 Welcome to my Github! 🎊</div>
 
 ## **My statistics on GitHub**
-
 <div align="center">
 	<img width="252" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adut24&layout=compact&langs_count=8&theme=codeSTACKr&border_color=ffffff" alt="most used language" />
 	<img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=adut24&show_icons=true&&theme=codeSTACKr&include_all_commits=true&border_color=ffffff" alt="github stats" />
@@ -24,6 +23,7 @@ We also learned to code in group during various projects with the most important
 	- [AirBnB clone - web static](https://github.com/adut24/holbertonschool-AirBnB_clone/tree/main/web_static) (solo project)
 	- [AirBnB clone - MySQL](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/) (group project)
 	- [AirBnB clone - Deploy static](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/) (solo project)
+	- [AirBnB clone - Web framework](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/web_flask) (solo project)
 <br><br>
 
 ## **Portfolio project**
