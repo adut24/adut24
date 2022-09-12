@@ -23,7 +23,7 @@ We also learned to code in group during various projects with the most important
 	- [AirBnB clone - web static](https://github.com/adut24/holbertonschool-AirBnB_clone/tree/main/web_static) (solo project)
 	- [AirBnB clone - MySQL](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/) (group project)
 	- [AirBnB clone - Deploy static](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/) (solo project)
-	- [AirBnB clone - Web framework](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/web_flask) (solo project)
+	- [AirBnB clone - Web framework](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/tree/master/web_flask) (solo project)
 <br><br>
 
 ## **Portfolio project**
