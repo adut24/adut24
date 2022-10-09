@@ -7,7 +7,7 @@
 </div>
 
 ## **About me**
-Hello! My name is Alexandre Dutertre. I'm a 23 years old student at [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I'd be finishing my foundations year in 3 months and so I am currently looking for an internship in Web Development (Front End or Back End).
+Hello! My name is Alexandre Dutertre. I'm a 23 years old student at [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I'd be finishing my foundations year in 3 months and so I am currently looking for an internship in Web Development or Software/Mobile application Development.
 
 During the first year at Holberton, I studied among other things:
 - C
@@ -19,14 +19,18 @@ You can find the complete list at the end of this README. I can work on Web Deve
 We also learned to code in group during various projects with the most important being:
 - [printf](https://github.com/adut24/printf)
 - [simple shell](https://github.com/adut24/simple_shell)
-- [AirBnB clone - console](https://github.com/adut24/holbertonschool-AirBnB_clone), completing the AirBnB clone projects:
+- AirBnB clone series:
+	- [AirBnB clone - console](https://github.com/adut24/holbertonschool-AirBnB_clone) (group project)
 	- [AirBnB clone - web static](https://github.com/adut24/holbertonschool-AirBnB_clone/tree/main/web_static) (solo project)
 	- [AirBnB clone - MySQL](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/) (group project)
 	- [AirBnB clone - Deploy static](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/) (solo project)
 	- [AirBnB clone - Web framework](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/tree/master/web_flask) (solo project)
+	- [AirBnB clone - RESTful API](https://github.com/adut24/holbertonschool-AirBnB_clone_v3) (group project)
+	- [AirBnB clone - Web dynamic](https://github.com/adut24/holbertonschool-AirBnB_clone_v4) (group project)
 <br><br>
 
 ## **Portfolio project**
+My portfolio project is currently being developped. It's a "Rogue-like" game done on Unity developped with [Nicolas Bouté](https://github.com/nboute) and [Pierre Dureau](https://github.com/Pierre-Dureau) called "Bluegun".
 ![In progress](https://c.tenor.com/MRCIli40TYoAAAAi/under-construction90s-90s.gif)
 <br>
 
