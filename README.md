@@ -30,7 +30,8 @@ We also learned to code in group during various projects with the most important
 <br><br>
 
 ## **Portfolio project**
-My portfolio project is currently being developped. It's a "Rogue-like" game done on Unity developped with [Nicolas Bouté](https://github.com/nboute) and [Pierre Dureau](https://github.com/Pierre-Dureau) called "Bluegun".
+My portfolio project is currently being developped. It's a [Rogue-like](https://en.wikipedia.org/wiki/Roguelike) game done on Unity developped with [Nicolas Bouté](https://github.com/nboute) and [Pierre Dureau](https://github.com/Pierre-Dureau) called "Bluegun".
+<br><br>
 ![In progress](https://c.tenor.com/MRCIli40TYoAAAAi/under-construction90s-90s.gif)
 <br>
 
