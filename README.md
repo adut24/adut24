@@ -7,7 +7,7 @@
 </div>
 
 ## **About me**
-Hello! My name is Alexandre Dutertre. I'm a 23 years old student at [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I'd be finishing my foundations year in 3 months and so I am currently looking for an internship in Web Development or Software/Mobile application Development.
+Hello! My name is Alexandre Dutertre. I'm a 23 years old student at [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I'd be finishing my foundations year in 3 months and so I am currently looking for an internship in Web Development or Software/Mobile application Development or even in AR/VR development if you accept beginner.
 
 During the first year at Holberton, I studied among other things:
 - C
@@ -67,7 +67,9 @@ My portfolio project is currently being developped. It's a [Rogue-like](https://
 	<img height="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML5" />
 	<img height="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" />
 	<img height="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" alt="MySQL" />
-	<img height="60" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript">
+	<img height="60" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" />
+	<img height="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="C#" />
+	<img height="60" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unity_icon-icons.com_56592.png" alt="Unity" />
 </div>
 <br><br>
 
