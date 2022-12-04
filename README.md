@@ -37,7 +37,7 @@ We chose to develop our portfolio project on Unity because all three of us want 
 This game engine is the primary software being used during the specialization year, so we wanted to use it to familiarize ourselves with it beforehand, but also see if we liked C# or Unity at the same time.
 
 The project was cut in several parts:
-<center><img src="https://imgur.com/S7aQAzR.png" height="400px" alt="Timeline" /></center>
+<div align="center"><img src="https://imgur.com/S7aQAzR.png" height="400px" alt="Timeline" /></div>
 
 As a first experience on Unity, we watched a lot of tutorial videos and experimented with functions we found in the Unity documentation API. This project comforted me in my wish to specialize in AR/VR as I liked the C# language and the possibilities it gave us. We did the final presentation of the demo on November 4th, 2022.
 <br><br>
