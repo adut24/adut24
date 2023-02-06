@@ -7,7 +7,7 @@
 </div>
 
 ## **About me**
-Hello! My name is Alexandre Dutertre. I'm a 24 years old student at [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I finished my foundations year in November, 2022 and I am currently doing an internship in Back End. I will start my specialization year at the end of March, 2023 in AR/VR and it'll end in January, 2024.
+Hello! My name is Alexandre Dutertre. I'm a 24 years old student at [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I finished my foundations year in November, 2022 and I am currently doing an internship in Back End using Java. I will start my specialization year at the end of March, 2023 in AR/VR and it'll end in January, 2024.
 
 During the first year at Holberton, I studied among other things:
 - C
