@@ -7,14 +7,14 @@
 </div>
 
 ## **About me**
-Hello! My name is Alexandre Dutertre. I'm a 24 years old student at [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I finished my foundations year in November, 2022 and I am currently doing an internship in Back End using Java. I will start my specialization year at the end of March, 2023 in AR/VR and it'll end in January, 2024.
+Hello! My name is Alexandre Dutertre. I'm a 24 years old student at [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I finished my foundations year on November 4th, 2022 and did a month and a half Full Stack internship with a focus on Back End using Java and Primefaces at the beginning on 2023. I will start my specialization year at the end of March 2023 in AR/VR and it'll end on January 5th, 2024.
 
 During the first year at Holberton, I studied among other things:
 - C
 - Python3
 - HTML5/CSS3
 
-You can find the complete list at the end of this README. I can work on Web Development as well as learning new languages to work on all kind of interesting projects!
+You can find the complete list at the end of this README. I can work on Web and Software Development as well as learning new languages to work on all kind of interesting projects!
 
 We also learned to code in group during various projects with the most important being:
 - [printf](https://github.com/adut24/printf)
