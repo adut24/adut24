@@ -7,7 +7,7 @@
 </div>
 
 ## **About me**
-Hello! My name is Alexandre Dutertre. I'm a 24 years old student at [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I finished my foundations year on November 4th, 2022 and did a month and a half Full Stack internship with a focus on Back End using Java and Primefaces at the beginning on 2023. I will start my specialization year at the end of March 2023 in AR/VR and it'll end on January 5th, 2024.
+Hello! My name is Alexandre Dutertre. I'm a 24 years old student at [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I finished my foundations year on November 4th, 2022 and did a month and a half Full Stack internship with a focus on Back End using Java and Primefaces at the beginning on 2023. I started my specialization year on March 20th, 2023 in AR/VR and it'll go until on January 5th, 2024.
 
 During the first year at Holberton, I studied among other things:
 - C
@@ -30,7 +30,9 @@ We also learned to code in group during various projects with the most important
 <br><br>
 
 ## **Portfolio project (foundations year)**
-My portfolio project is a [Rogue-like](https://en.wikipedia.org/wiki/Roguelike) game done on Unity, that I developped in team with [Nicolas Bouté](https://github.com/nboute) and [Pierre Dureau](https://github.com/Pierre-Dureau). The game is called *Bluegun*.
+<details>
+<summary>Details about this project</summary>
+My portfolio project for the foundations year was a [Rogue-like](https://en.wikipedia.org/wiki/Roguelike) game done on Unity, that I developped in team with [Nicolas Bouté](https://github.com/nboute) and [Pierre Dureau](https://github.com/Pierre-Dureau). The game is called *Bluegun*.
 We chose to develop our portfolio project on Unity because all three of us want to do the <strong>AR/VR</strong> specialization during our second year at Holberton School.
 
 This game engine is the primary software being used during the specialization year, so we wanted to use it to familiarize ourselves with it beforehand, but also see if we liked C# or Unity at the same time.
@@ -41,9 +43,8 @@ The project was cut in several parts starting from September 29th, 2022 to Novem
 As a first experience on Unity, we watched a lot of tutorial videos and experimented with functions we found in the Unity documentation API. This project comforted me in my wish to specialize in AR/VR as I liked the C# language and the possibilities it gave us.
 <br><br>
 <a href="https://github.com/adut24/portfolio_bluegun">Repository</a>
+</details>
 <br>
-<a href="adut24.github.io">Landing page</a>
-<br><br>
 
 ## **To contact me**
 <div>
