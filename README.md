@@ -32,7 +32,7 @@ We also learned to code in group during various projects with the most important
 ## **Portfolio project (foundations year)**
 <details>
 <summary>Details about this project</summary>
-My portfolio project for the foundations year was a [Rogue-like](https://en.wikipedia.org/wiki/Roguelike) game done on Unity, that I developped in team with [Nicolas Bouté](https://github.com/nboute) and [Pierre Dureau](https://github.com/Pierre-Dureau). The game is called *Bluegun*.
+My portfolio project for the foundations year was a <a href="https://en.wikipedia.org/wiki/Roguelike">Rogue-like</a> game done on Unity, that I developped in team with <a href="https://github.com/nboute">Nicolas Bouté</a> and <a href="https://github.com/Pierre-Dureau">Pierre Dureau</a>. The game is called *Bluegun*.
 We chose to develop our portfolio project on Unity because all three of us want to do the <strong>AR/VR</strong> specialization during our second year at Holberton School.
 
 This game engine is the primary software being used during the specialization year, so we wanted to use it to familiarize ourselves with it beforehand, but also see if we liked C# or Unity at the same time.
