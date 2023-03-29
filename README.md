@@ -2,31 +2,46 @@
 
 ## **My statistics on GitHub**
 <div align="center">
-	<img width="252" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adut24&layout=compact&langs_count=8&theme=codeSTACKr&border_color=ffffff" alt="most used language" />
-	<img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=adut24&show_icons=true&&theme=codeSTACKr&include_all_commits=true&border_color=ffffff" alt="github stats" />
+	<img width="252" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adut24&langs_count=5&theme=codeSTACKr&border_color=ffffff" alt="most used language" />
+	<img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=adut24&show_icons=true&&theme=codeSTACKr&border_color=ffffff" alt="github stats" />
 </div>
 
 ## **About me**
-Hello! My name is Alexandre Dutertre. I'm a 24 years old student at [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I finished my foundations year on November 4th, 2022 and did a month and a half Full Stack internship with a focus on Back End using Java and Primefaces at the beginning on 2023. I started my specialization year on March 20th, 2023 in AR/VR and it'll go until on January 5th, 2024.
-
-During the first year at Holberton, I studied among other things:
-- C
-- Python3
-- HTML5/CSS3
+Hello! My name is Alexandre Dutertre. I'm a 24 years old student at [Holberton School](https://www.holbertonschool.com) LAVAL in France 🇫🇷. I finished my foundations year on November 4th, 2022 and did a month and a half Full Stack internship with a focus on Back End using Java and Primefaces at the beginning on 2023. I started my specialization year on March 20th, 2023 in AR/VR which will go until on January 5th, 2024.
+<br/>
+<details>
+<summary>First year at Holberton</summary>
+During the foundations year, I studied among other things:
+<ul>
+<li>C</li>
+<li>Python3</li>
+<li>HTML5/CSS3</li>
+</ul>
 
 You can find the complete list at the end of this README. I can work on Web and Software Development as well as learning new languages to work on all kind of interesting projects!
 
 We also learned to code in group during various projects with the most important being:
-- [printf](https://github.com/adut24/printf)
-- [simple shell](https://github.com/adut24/simple_shell)
-- AirBnB clone series:
-	- [AirBnB clone - console](https://github.com/adut24/holbertonschool-AirBnB_clone) (group project)
-	- [AirBnB clone - web static](https://github.com/adut24/holbertonschool-AirBnB_clone/tree/main/web_static) (solo project)
-	- [AirBnB clone - MySQL](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/) (group project)
-	- [AirBnB clone - Deploy static](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/) (solo project)
-	- [AirBnB clone - Web framework](https://github.com/adut24/holbertonschool-AirBnB_clone_v2/tree/master/web_flask) (solo project)
-	- [AirBnB clone - RESTful API](https://github.com/adut24/holbertonschool-AirBnB_clone_v3) (group project)
-	- [AirBnB clone - Web dynamic](https://github.com/adut24/holbertonschool-AirBnB_clone_v4) (group project)
+<ul>
+<li><a href="https://github.com/adut24/printf">printf</a>
+<li><a href="https://github.com/adut24/simple_shell">simple shell</a>
+<li><strong><U>AirBnB clone series</U></strong>:
+<ul>
+<li><a href="https://github.com/adut24/holbertonschool-AirBnB_clone">AirBnB clone - console</a> (group project)
+<li><a href="https://github.com/adut24/holbertonschool-AirBnB_clone/tree/main/web_static">AirBnB clone - web static</a> (solo project)
+<li><a href="https://github.com/adut24/holbertonschool-AirBnB_clone_v2/">AirBnB clone - MySQL</a> (group project)
+<li><a href="https://github.com/adut24/holbertonschool-AirBnB_clone_v2/">AirBnB clone - Deploy static</a> (solo project)
+<li><a href="https://github.com/adut24/holbertonschool-AirBnB_clone_v2/tree/master/web_flask">AirBnB clone - Web framework</a> (solo project)
+<li><a href="https://github.com/adut24/holbertonschool-AirBnB_clone_v3">AirBnB clone - RESTful API</a> (group project)
+<li><a href="https://github.com/adut24/holbertonschool-AirBnB_clone_v4">AirBnB clone - Web dynamic</a> (group project)
+</ul>
+</ul>
+</details>
+<br/>
+<details>
+<summary>Outside programming</summary>
+
+</details>
+
 <br><br>
 
 ## **Portfolio project (foundations year)**
@@ -46,13 +61,10 @@ As a first experience on Unity, we watched a lot of tutorial videos and experime
 </details>
 <br>
 
-## **To contact me**
+## **Contact me**
 <div>
 <a href="https://www.linkedin.com/in/alexandredut">
 <img width="150" height="40" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
-</a>
-<a href="https://twitter.com/dute_a">
-<img width="150" height="40" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitter_button_icon_151835.png" />
 </a>
 <a href="mailto:dutertre.alexandre@laposte.net">
 <img width="150" height="40" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/email_me_button_icon_151852.png" />
@@ -81,6 +93,7 @@ As a first experience on Unity, we watched a lot of tutorial videos and experime
 	<img height="60" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" />
 	<img height="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="C#" />
 	<img height="60" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unity_icon-icons.com_56592.png" alt="Unity" />
+	<img height="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="Java" />
 </div>
 <br><br>
 
