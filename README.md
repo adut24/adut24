@@ -11,6 +11,7 @@ Hello! My name is Alexandre Dutertre. I'm a 24 years old student at [Holberton S
 <br/>
 <details>
 <summary>First year at Holberton</summary>
+<br/>
 During the foundations year, I studied among other things:
 <ul>
 <li>C</li>
@@ -35,18 +36,22 @@ We also learned to code in group during various projects with the most important
 <li><a href="https://github.com/adut24/holbertonschool-AirBnB_clone_v4">AirBnB clone - Web dynamic</a> (group project)
 </ul>
 </ul>
+<br/>
+I also did my portfolio project in group but for more details, see below in the portfolio project section.
 </details>
 <br/>
+
 <details>
 <summary>Outside programming</summary>
 
 </details>
 
-<br><br>
+<br/><br/>
 
 ## **Portfolio project (foundations year)**
 <details>
 <summary>Details about this project</summary>
+<br/>
 My portfolio project for the foundations year was a <a href="https://en.wikipedia.org/wiki/Roguelike">Rogue-like</a> game done on Unity, that I developped in team with <a href="https://github.com/nboute">Nicolas Bouté</a> and <a href="https://github.com/Pierre-Dureau">Pierre Dureau</a>. The game is called <strong>Bluegun</strong>.
 We chose to develop our portfolio project on Unity because all three of us want to do the <strong>AR/VR</strong> specialization during our second year at Holberton School.
 
@@ -56,10 +61,10 @@ The project was cut in several parts starting from September 29th, 2022 to Novem
 <div align="center"><img src="https://imgur.com/S7aQAzR.png" height="400px" alt="Timeline" /></div>
 
 As a first experience on Unity, we watched a lot of tutorial videos and experimented with functions we found in the Unity documentation API. This project comforted me in my wish to specialize in AR/VR as I liked the C# language and the possibilities it gave us.
-<br><br>
+<br/><br/>
 <a href="https://github.com/adut24/portfolio_bluegun">Project repository</a>
 </details>
-<br>
+<br/>
 
 ## **Contact me**
 <div>
@@ -70,7 +75,7 @@ As a first experience on Unity, we watched a lot of tutorial videos and experime
 <img width="150" height="40" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/email_me_button_icon_151852.png" />
 </a>
 </div>
-<br>
+<br/>
 
 ## **My latest Medium articles**
 <!-- MEDIUM-STORY-LIST:START -->
@@ -95,6 +100,6 @@ As a first experience on Unity, we watched a lot of tutorial videos and experime
 	<img height="60" src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unity_icon-icons.com_56592.png" alt="Unity" />
 	<img height="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="Java" />
 </div>
-<br><br>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=adut24&&style=flat-square" />
