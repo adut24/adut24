@@ -42,8 +42,8 @@ I also did my portfolio project in group but for more details, see below in the 
 <br/>
 
 <details>
-<summary>Outside programming</summary>
-
+<summary>Second year at Holberton</summary>
+<img src="https://media.tenor.com/0Gs0i8LsBn8AAAAC/gear-kolo.gif" alt="To do" />
 </details>
 
 <br/><br/>
