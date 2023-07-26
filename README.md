@@ -79,11 +79,11 @@ As a first experience on Unity, we watched a lot of tutorial videos and experime
 
 ## **My latest Medium articles**
 <!-- MEDIUM-STORY-LIST:START -->
+- [The ethical challenges of AR/VR](https://medium.com/@alex24dutertre/the-ethical-challenges-of-ar-vr-a5333594f909?source=rss-6ed84c5350e0------2)
 - [Square, Rectangle and the Liskov Substitution Principle](https://medium.com/@alex24dutertre/square-rectangle-and-the-liskov-substitution-principle-ee1eb8433106?source=rss-6ed84c5350e0------2)
 - [What are those Things on the Internet? &lpar;IoT&rpar;](https://medium.com/@alex24dutertre/what-are-those-things-on-the-internet-iot-e7f13464dd41?source=rss-6ed84c5350e0------2)
 - [Recursion. Recursio. Recursi. Recurs… What is recursion?](https://medium.com/@alex24dutertre/recursion-recursio-recursi-recurs-what-is-recursion-f8ee3afb31e3?source=rss-6ed84c5350e0------2)
 - [Everything is Object! Mutable and Immutable](https://medium.com/@alex24dutertre/everything-is-object-mutable-and-immutable-405cae8aba75?source=rss-6ed84c5350e0------2)
-- [Object and Class Attributes in Python Object-Oriented Programming](https://medium.com/@alex24dutertre/object-and-class-attributes-in-python-object-oriented-programming-9fb422d9a45b?source=rss-6ed84c5350e0------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## **Languages and tools used**
